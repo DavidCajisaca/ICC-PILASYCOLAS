@@ -1,7 +1,7 @@
 1. ## Objetivo del Programa ## 
 
 El programa tiene como objetivo principal permitir al usuario ingresar una cadena de signos y una serie de elementos en un stack. Luego, el programa verifica la validez de la cadena de paréntesis y ordena los elementos del stack, mostrando tanto el stack original como el ordenado.
-2. ## El programa se compone de las siguientes clases:##
+2. ## El programa se compone de las siguientes clases ## 
 
 App: Esta es la clase principal que contiene el método main. Se encarga de interactuar con el usuario, solicitando la entrada de datos y mostrando los resultados.
 
